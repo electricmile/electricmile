@@ -1,0 +1,15 @@
+From Fan Switch (Indication Module)
+SW1 = D10 (May not required this Input as Controller 1 is default)
+SW2 = D11
+SW3 = D12
+SW4 = D13
+For Switching Module (MOSFETs)
+S1 = D2
+S2 = D3
+S3 = D4
+S4 = D5
+For LAN Module Selection (Relay board)
+RS1 = D6
+RS2 = D7
+RS3 = D8
+RS4 = D9
