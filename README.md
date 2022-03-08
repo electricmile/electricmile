@@ -1,5 +1,6 @@
 Electric Mile 
-Description:
+
+
 Smart delivery system is being developed for enchanced tracking of packages from amazon, flipkart, zomato, etc. 
 Components used:
 1. Arduino Uno 
